@@ -1,8 +1,8 @@
-<h1 align="center">Hey there 👋, I'm Rahul Vishwakarma</h1>
+<h1 align="center">Hi there 👋, I'm Rahul Vishwakarma</h1>
 
 <p align="center">
-  <b>Full Stack Software Engineer | AI & Automation Enthusiast | Algorithmic Trading Fanatic</b><br/>
-  💼 Currently building digital tools @ Student Diwan (Qatar)<br/>
+  <b>Full Stack Developer | AI & Automation Enthusiast | Algorithmic Trading Fanatic</b><br/>
+  💼 Currently building digital tools @ Script Assist<br/>
   🌐 <a href="https://rahul-vishwakarma-portfolio.vercel.app/">Visit My Portfolio →</a>
 </p>
 
@@ -10,11 +10,11 @@
 
 ### 💡 About Me
 
-I'm a passionate full stack developer who thrives on turning ideas into robust software. From trading bots to AI assistants and real-time web platforms — I love building tech that solves real problems.
+I'm a versatile Full Stack Developer with a proven track record in building and deploying scalable, robust, and innovative software solutions across a range of industries. My passion lies in creating efficient systems that drive business growth and enhance user experiences.
 
 - 🔭 Currently working on **multi-school ERP systems** and **AI automation tools**
-- ⚡ Interests: Full-stack dev, ethical hacking, algorithmic trading, AI
-- 🛠️ I'm a builder at heart, always tinkering with something new
+- ⚡ Interests: Full-stack development, ethical hacking, algorithmic trading, AI
+- 🛠️ Always exploring new technologies to stay ahead in the tech world
 
 ---
 
@@ -23,8 +23,8 @@ I'm a passionate full stack developer who thrives on turning ideas into robust s
 #### 💻 Languages
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
